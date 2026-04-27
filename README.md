@@ -11,7 +11,7 @@
 
 [🚀 Live Demo](https://satellite-scene-classification-4remxga6jkwsfybr79ivjq.streamlit.app) • [📓 Notebook](notebooks/satellite_classification.ipynb) • [📊 Results](#-results)
 
-</div>
+</div> 
 
 ---
 
