@@ -5,6 +5,8 @@ import torchvision.models as models
 import torchvision.transforms as transforms
 from PIL import Image
 import numpy as np
+import gdown
+import os
 
 CLASS_NAMES = ['AnnualCrop', 'Forest', 'HerbaceousVegetation', 'Highway',
                'Industrial', 'Pasture', 'PermanentCrop', 'Residential',
@@ -12,8 +14,15 @@ CLASS_NAMES = ['AnnualCrop', 'Forest', 'HerbaceousVegetation', 'Highway',
 
 PIXEL_MAX = 3500.0
 
+# Replace this with your actual Google Drive file ID
+GDRIVE_FILE_ID = "1-SDqpNG5o9x9i9ulcAupZML2v_YQ2Iup"
+
 @st.cache_resource
 def load_model():
+    if not os.path.exists('best_model.pth'):
+        url = f"https://drive.google.com/uc?id={GDRIVE_FILE_ID}"
+        gdown.download(url, 'best_model.pth', quiet=False)
+
     model = models.resnet18(pretrained=False)
     model.fc = nn.Linear(512, 10)
     model.load_state_dict(torch.load('best_model.pth',
