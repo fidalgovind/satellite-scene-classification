@@ -301,5 +301,5 @@ GitHub contribution graphs for all team members are available in the [`/individu
 ---
 
 <div align="center">
-Made with ❤️ for Predictive Analytics Course
+
 </div>
