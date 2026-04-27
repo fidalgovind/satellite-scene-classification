@@ -294,7 +294,7 @@ GitHub contribution graphs for all team members are available in the [`/individu
 
 | Member | Stages |
 |--------|--------|
-| fidalgovind | Preprocessing, Modelling, Grad-CAM, Deployment |
+| Fidalgovind | Preprocessing, Modelling, Grad-CAM, Deployment |
 | Adithyan Biju | Data Loading, Data Understanding, EDA Support |
 | Archana T | EDA, Evaluation, Documentation |
 
