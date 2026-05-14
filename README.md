@@ -23,7 +23,7 @@
 | Adithyan Biju | Data Loading, Data Understanding, EDA Support |
 | Archana T | EDA, Evaluation, Documentation |
 
-**Course:** Predictive Analytics
+**Course:** PREDICTIVE ANALYTICS
 
 --
 
