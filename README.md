@@ -20,7 +20,7 @@
 | Member | Course | Reg No | Role |
 |--------|--------|--------|------|
 | fidalgovind  | MSc DACS| 253129|Preprocessing, Modelling, Grad-CAM, Deployment |
-| Adithyan Biju |MSc | 253102| Data Loading, Data Understanding, EDA Support |
+| Adithyan Biju |MSc DACS | 253102| Data Loading, Data Understanding, EDA Support |
 | Archana T |MSc. DATA SCIENCE AND BIO AI |253205 | EDA, Evaluation, Documentation |
 
 **Course:** PREDICTIVE ANALYTICS
