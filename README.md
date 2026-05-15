@@ -18,7 +18,7 @@
 ## 👥 Team
 
 | Member | Course | Reg No | Role |
-|--------|--------|
+|--------|--------|--------|------|
 | fidalgovind  | | |Preprocessing, Modelling, Grad-CAM, Deployment |
 | Adithyan Biju | | | Data Loading, Data Understanding, EDA Support |
 | Archana T |MSc. DATA SCIENCE AND BIO AI |253205 | EDA, Evaluation, Documentation |
