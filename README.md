@@ -21,7 +21,7 @@
 |--------|--------|
 | fidalgovind  | Preprocessing, Modelling, Grad-CAM, Deployment |
 | Adithyan Biju | Data Loading, Data Understanding, EDA Support |
-| | EDA, Evaluation, Documentation |
+|Archana T | EDA, Evaluation, Documentation |
 
 **Course:** PREDICTIVE ANALYTICS
 
